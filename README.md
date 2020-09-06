@@ -4,7 +4,7 @@
 
 1. Install neovim and termial tool:
 ```bash
-brew install neovim fzf fd lazygit
+brew install neovim fzf fd lazygit the_silver_searcher
 ```
 
 2. Install vim-plugins  :

@@ -213,6 +213,8 @@ vnoremap <C-j> <ESC>
 cnoremap <C-j> <ESC>
 inoremap ;; <ESC>$a;
 inoremap :: <ESC>$a:
+nnoremap L $
+nnoremap H ^
 
 " ***************************************************************************** ctags setting ************************************************************
 autocmd BufRead *.rs :setlocal tags=./rusty-tags.vi;/
